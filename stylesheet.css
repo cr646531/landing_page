@@ -1,3 +1,8 @@
+body{
+  font-family: 'Sanista', sans-serif;
+  text-align: center;
+}
+
 #profile_pic{
   height: 300px;
   width: 300px;
@@ -47,5 +52,18 @@
 
 .contact_info{
   font-size: 20px;
+  font-weight: bold;
+}
+
+.contain_form{
+  font-size: 1.5em;
+}
+
+.submit_button{
+  background-color: green;
+  height: 50px;
+  width: 150px;
+  margin: 20px;
+  font-size: 1em;
   font-weight: bold;
 }
